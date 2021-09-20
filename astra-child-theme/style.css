@@ -12,7 +12,7 @@ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, access
 Text Domain:  astrachildtheme
 */
 
-/*font på overskrifter, og tekster */
+/*font på overskrifter, og tekster forside */
 
 h2.elementor-heading-title.elementor-size-default {
     font-family: 'Klee One', cursive;
@@ -35,9 +35,47 @@ h3.elementor-image-box-title {
     font-size: x-large;
 }
 
+p {
+    font-family: 'Klee One';
+}
+
+p {
+    color: #7C6F72;
+    font-family: 'Klee One';
+}
+/* call to action knap på forside */
+span.elementor-button-text {
+    font-family: 'Klee One';
+    font-size: large;
+}
+
+/* font på om mig siden */ 
+
+p {
+    font-family: 'Klee One';
+    font-size: medium;
+}
+
 /* menu punkter */
 a.menu-link {
     font-family: 'Klee One', cursive;
     font-size: 1.2rem;
     
+}
+/*   portfolio siden  */
+
+p {
+    font-family: 'Klee One';
+}
+
+/*   calla to action knap   */ 
+span.elementor-button-text {
+    font-family: 'Klee One';
+    font-size: large;
+}
+
+/*    Kontakt siden   */ 
+
+p.elementor-icon-box-description {
+    font-family: 'Klee One';
 }
